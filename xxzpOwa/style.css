@@ -1,0 +1,47 @@
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --gold: #DDAF54;
+}
+
+/* general */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--black);
+  font-family: "Poppins", sans-serif;
+  color: var(--white);
+}
+
+.spacer {
+  height: 100vh;
+  font-size: 60px;
+}
+
+
+/* helpers */
+
+.flex-align {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* hero */
+
+.hero{
+  background-color: var(--gold);
+  color: var(--black);
+  padding: 150px 0;
+}
+
+/* text */
+
+.text{
+  padding: 40px;
+  text-align: right;
+  font-size: 60px;
+}
