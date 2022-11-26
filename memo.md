@@ -10,3 +10,4 @@ https://greensock.com/drawsvg/
 https://codepen.io/GreenSock/pen/xxzpOwa
 https://codepen.io/GreenSock/pen/VwdyxPj （pinの仕組みがいまいち分からなかった）
 https://codepen.io/GreenSock/pen/LYrQbdO
+https://codepen.io/GreenSock/pen/GRGdexP
