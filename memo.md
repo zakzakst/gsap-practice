@@ -11,4 +11,5 @@ https://codepen.io/GreenSock/pen/xxzpOwa
 https://codepen.io/GreenSock/pen/VwdyxPj （pinの仕組みがいまいち分からなかった）
 https://codepen.io/GreenSock/pen/LYrQbdO
 https://codepen.io/GreenSock/pen/GRGdexP
-https://codepen.io/GreenSock/pen/dyKKQwm
+https://codepen.io/GreenSock/pen/dyKKQwm （toggleActions調べる）
+https://codepen.io/GreenSock/pen/WNympKM
