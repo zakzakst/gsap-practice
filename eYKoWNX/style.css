@@ -1,0 +1,41 @@
+body {
+  width: 100vw;
+  overflow-x: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+.wrap,
+section {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section.center {
+  background: lightgrey;
+}
+
+.left,
+.right {
+  width: 90px;
+  height: 160px;
+}
+
+.left {
+  top: 300px;
+  left: 300px;
+  background-color: orange;
+}
+
+.right {
+  top: 300px;
+  right: 300px;
+  background-color: tomato;
+}
+
+.wrap {
+  background-color: blue;
+}
