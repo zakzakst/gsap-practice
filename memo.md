@@ -5,7 +5,6 @@ https://codepen.io/GreenSock/pens/public?grid_type=list&sort_col=created_at
 https://greensock.com/drawsvg/
 
 ## TODO
-https://codepen.io/GreenSock/pen/eYKoWNX
 
 ## DONE
 https://codepen.io/GreenSock/pen/xxzpOwa
@@ -15,3 +14,4 @@ https://codepen.io/GreenSock/pen/GRGdexP
 https://codepen.io/GreenSock/pen/dyKKQwm （toggleActions調べる）
 https://codepen.io/GreenSock/pen/WNympKM
 https://codepen.io/GreenSock/pen/rNKRZbb
+https://codepen.io/GreenSock/pen/eYKoWNX
