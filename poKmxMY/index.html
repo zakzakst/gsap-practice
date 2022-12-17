@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>base</title>
+    <!-- <link rel="stylesheet" href=""> -->
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td>timeline</td>
+        <td>duration</td>
+        <td>progress</td>
+        <td></td>
+      </tr>
+      <tr data-timeline="root">
+        <td>root</td>
+        <td>0</td>
+        <td><input type="number" min="0" max="100" value="0" /></td>
+        <td><input type="range" min="0" max="100" value="0" /></td>
+      </tr>
+      <tr data-timeline="box1">
+        <td>box1</td>
+        <td>0</td>
+        <td><input type="number" min="0" max="100" value="0" /></td>
+        <td><input type="range" min="0" max="100" value="0" /></td>
+      </tr>
+      <tr data-timeline="box2">
+        <td>box2</td>
+        <td>0</td>
+        <td><input type="number" min="0" max="100" value="0" /></td>
+        <td><input type="range" min="0" max="100" value="0" /></td>
+      </tr>
+      <tr data-timeline="box3">
+        <td>box3</td>
+        <td>0</td>
+        <td><input type="number" min="0" max="100" value="0" /></td>
+        <td><input type="range" min="0" max="100" value="0" /></td>
+      </tr>
+    </table>
+    <div class="container">
+      <div class="box" data-box="1"><span>1</span></div>
+      <div class="box" data-box="2"><span>2</span></div>
+      <div class="box" data-box="3"><span>3</span></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/gsap.min.js"></script>
+    <!-- <script src=""></script> -->
+    <script src="script.js"></script>
+  </body>
+</html>
