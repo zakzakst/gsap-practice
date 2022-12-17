@@ -1,0 +1,38 @@
+.container {
+  width: 400px;
+  height: 400px;
+  border: 1px solid red;
+}
+.box {
+  position: absolute;
+  opacity: 0.2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box span {
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 24px;
+  color: white;
+}
+
+[data-box="1"] {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+[data-box="2"] {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background-color: blue;
+}
+
+[data-box="3"] {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: green;
+}
