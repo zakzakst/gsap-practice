@@ -18,3 +18,4 @@ https://codepen.io/GreenSock/pen/eYKoWNX
 https://codepen.io/GreenSock/pen/VwdOqVJ
 https://codepen.io/GreenSock/pen/poKmxMY （ちょっと上手くできなかった）
 https://codepen.io/GreenSock/pen/vYaEaqG
+https://codepen.io/GreenSock/pen/eYjJvpy （fromToの第二引数に数字を入れるところのドキュメントが見つからなかった）
