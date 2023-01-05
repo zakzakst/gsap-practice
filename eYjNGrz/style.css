@@ -1,0 +1,19 @@
+.cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  background: red;
+  border-radius: 100%;
+  backface-visibility: hidden;
+  z-index: 100000;
+  pointer-events: none;
+}
+
+.container>ul>li {
+  background-color: #000;
+  margin-top: 20px;
+  width: 250px;
+  height: 250px;
+}

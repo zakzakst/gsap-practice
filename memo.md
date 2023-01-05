@@ -5,7 +5,6 @@ https://codepen.io/GreenSock/pens/public?grid_type=list&sort_col=created_at
 https://greensock.com/drawsvg/
 
 ## TODO
-https://codepen.io/GreenSock/pen/eYjNGrz
 https://codepen.io/GreenSock/pen/zYLGXbO
 https://codepen.io/GreenSock/pen/YzjXZKX
 
@@ -25,3 +24,4 @@ https://codepen.io/GreenSock/pen/eYjJvpy （fromToの第二引数に数字を入
 https://codepen.io/GreenSock/pen/vYaLqGR （invalidateOnRefresh、containerAnimation覚えておく）
 ※https://qiita.com/heeroo_ymsw/items/ae22e4cee8c6a08ff852
 https://codepen.io/GreenSock/pen/VwBeEmj
+https://codepen.io/GreenSock/pen/eYjNGrz （quickToというメソッド覚えておく）
