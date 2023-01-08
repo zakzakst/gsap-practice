@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>base</title>
+    <link rel="stylesheet" href="https://codepen.io/GreenSock/pen/7ba936b34824fefdccfe2c6d9f0b740b.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main>
+      <nav>
+        <div><a href="#intro">Intro</a></div>
+        <div><a href="#one">Section one</a></div>
+        <div><a href="#two">Section two</a></div>
+        <div><a href="#three">Section three</a></div>
+        <div><a href="#four">Section four</a></div>
+      </nav>
+
+      <div class="slides-wrapper">
+        <section id="intro" class="intro panel">
+          <div class="slide-content">
+            <h1>Intro Slide</h1>
+          </div>
+        </section>
+        <section id="one" class="first panel">
+          <div class="slide-content">
+            <h1>Section 1</h1>
+            <p>Additional element</p>
+          </div>
+        </section>
+        <section id="two" class="second panel">
+          <div class="slide-content">
+            <h1>Section 2</h1>
+          </div>
+        </section>
+        <section id="three" class="third panel">
+          <div class="slide-content">
+            <h1>Section 3</h1>
+          </div>
+        </section>
+        <section id="four" class="fouth panel">
+          <div class="slide-content">
+            <h1>Section 4</h1>
+          </div>
+        </section>
+      </div>
+    </main>
+    <script src="https://unpkg.co/gsap@3/dist/gsap.min.js"></script>
+    <script src="https://unpkg.com/gsap@3/dist/ScrollTrigger.min.js"></script>
+    <script src="https://unpkg.com/gsap@3/dist/ScrollToPlugin.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
