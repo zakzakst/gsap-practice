@@ -1,0 +1,56 @@
+.spacer {
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-content {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: all 1s;
+}
+
+.section-content.is-animated {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.movie {
+  aspect-ratio: 16 / 9;
+  background: #888;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.thumbnails {
+  display: flex;
+  gap: 10px;
+  width: 150vw;
+}
+
+.thumbnail {
+  display: block;
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+  background: #888;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#section2 {
+  margin-top: 100px;
+}
+
+#section2 .columns {
+  flex-direction: row-reverse;
+}
+
+#section2 .thumbnails {
+  justify-content: flex-end;
+}
