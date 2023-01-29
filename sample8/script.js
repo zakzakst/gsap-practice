@@ -38,4 +38,16 @@
     },
     // markers: true,
   });
+
+  const bgAnimEl = document.querySelector('.bg-anim');
+
+  ScrollTrigger.create({
+    trigger: bgAnimEl,
+    start: 'top 50%',
+    onEnter: (self) => {
+      self.kill();
+      bgAnimEl.classList.add('--animated');
+    },
+    // markers: true,
+  });
 })();
